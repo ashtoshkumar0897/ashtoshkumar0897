@@ -14,7 +14,7 @@
 * 🚀 Currently exploring Generative AI, Diffusion Models, and Cloud Architecture
 * 🧠 Solved over 800+ coding problems on LeetCode
 * 🏆 **Achievements:**
-  * National Winner: Smart India Hackathon 2024
+  * Participant: Smart India Hackathon 2024
   * LeetCode: Top 5% Globally Rank
   * Merit cum Means Scholarship Awardee
 
